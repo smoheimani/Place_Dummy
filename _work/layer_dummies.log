@@ -1,0 +1,18 @@
+=== 04_layer_dummies.ms start ===
+scene: D:\Utilities\Place_Dummy\placedummy.max
+map  : D:\Utilities\Place_Dummy\_work\block_to_species_MAPPING.csv
+backup -> D:\Utilities\Place_Dummy\_work\placedummy_BACKUP_pre_layer.max
+loaded; objects=2555
+species mapped: 21
+dummies found: 2554
+moved: 2554
+skipped: 0
+
+=== per-layer counts ===
+Plants_Trees  539
+Plants_Palms  29
+Plants_Shrubs  1986
+Plants_Other  0
+report csv -> D:\Utilities\Place_Dummy\_work\layer_report.csv
+saved: D:\Utilities\Place_Dummy\placedummy.max
+=== done ===

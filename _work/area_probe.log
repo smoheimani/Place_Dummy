@@ -1,0 +1,39 @@
+=== 05_probe_areas.ms start ===
+reset done
+import returned: true; objects=9728
+closed splines written : 3198
+open splines skipped   : 3333
+non-spline skipped     : 3197
+
+=== closed-spline counts by layer (top 30) ===
+1095  LK-SHRB-TRNK
+370  LK-TREE-TRNK
+180  x-RL TH7-LP Block$0$LK-SHRB-035M
+175  LK-TREE-050M
+149  Site Plan$0$A-DOOR-EXT_WINDOWS
+147  x-RL TH5-LP Block$0$LK-SHRB-035M
+90  x-RL TH7-LP Block$0$LK-SHRB-TRNK
+76  x-RL TH6-LP Block$0$LK-SHRB-035M
+72  x-RL TH6-LP Block$0$LK-SHRB-TRNK
+72  x-Villa5-LP Block$0$LK-SHRB-TRNK
+61  Site Plan$0$A-HVAC-EXT
+57  x-RL TH5-LP Block$0$LK-SHRB-TRNK
+57  Site Plan$0$A-DOOR
+44  x-RL TH8-LP Block$0$LK-SHRB-035M
+40  x-Villa5-LP Block$0$LK-TREE-TRNK
+36  x-RL TH4-LP Block$0$LK-SHRB-035M
+36  x-RL TH8-LP Block$0$LK-SHRB-TRNK
+36  x-Villa6-LP Block$0$LK-TREE-TRNK
+35  x-Villa4-LP Block$0$LK-SHRB-TRNK
+24  x-Villa6-LP Block$0$LK-SHRB-TRNK
+22  x-RL TH4-LP Block$0$LK-SHRB-TRNK
+21  Site Plan$0$-u-site-fence
+21  x-RL TH7-LP Block$0$LK-TREE-TRNK
+20  x-Villa4-LP Block$0$LK-TREE-TRNK
+20  Site Plan$0$-u-site-wall
+18  x-Villa6-LP Block$0$LK-TREE-025M
+18  x-Villa6-LP Block$0$LK-TREE-050M
+16  x-Villa5-LP Block$0$LK-TREE-050M
+16  x-Villa5-LP Block$0$LK-TREE-025M
+15  x-RL TH5-LP Block$0$LK-TREE-TRNK
+=== done ===

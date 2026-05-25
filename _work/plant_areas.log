@@ -1,0 +1,13 @@
+=== 06_extract_areas.ms start ===
+backup -> D:\Utilities\Place_Dummy\_work\placedummy_BACKUP_pre_areas.max
+loaded; objects=2555
+import returned: true; objects now: 12283
+imported objects: 9728
+computed offset: [1.10474e+07,8.48803e+06,-4.54932]
+LP-SHAR-BRDR-CONT splines found: 30
+areas created: 30
+deleted imported source nodes: 9728
+saved: D:\Utilities\Place_Dummy\placedummy.max
+report csv: D:\Utilities\Place_Dummy\_work\plant_areas_report.csv
+template mapping csv: D:\Utilities\Place_Dummy\_work\area_to_species_MAPPING.csv
+=== done ===

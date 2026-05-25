@@ -1,0 +1,288 @@
+{
+  "CAA": {
+    "bbox": [
+      108,
+      3350,
+      238,
+      3415
+    ],
+    "code_xy": [
+      323,
+      3383
+    ],
+    "category": "shrub_hatch"
+  },
+  "CES": {
+    "bbox": [
+      108,
+      3564,
+      238,
+      3629
+    ],
+    "code_xy": [
+      323,
+      3597
+    ],
+    "category": "shrub_hatch"
+  },
+  "CHR": {
+    "bbox": [
+      108,
+      3422,
+      238,
+      3487
+    ],
+    "code_xy": [
+      323,
+      3454
+    ],
+    "category": "shrub_hatch"
+  },
+  "FAK": {
+    "bbox": [
+      106,
+      4243,
+      236,
+      4308
+    ],
+    "code_xy": [
+      321,
+      4276
+    ],
+    "category": "grasses"
+  },
+  "FIC": {
+    "bbox": [
+      104,
+      4422,
+      234,
+      4487
+    ],
+    "code_xy": [
+      319,
+      4455
+    ],
+    "category": "groundcover"
+  },
+  "GLA": {
+    "bbox": [
+      107,
+      4494,
+      237,
+      4559
+    ],
+    "code_xy": [
+      322,
+      4526
+    ],
+    "category": "groundcover"
+  },
+  "HAM": {
+    "bbox": [
+      108,
+      3636,
+      238,
+      3701
+    ],
+    "code_xy": [
+      323,
+      3668
+    ],
+    "category": "shrub_hatch"
+  },
+  "HEL": {
+    "bbox": [
+      106,
+      4565,
+      236,
+      4630
+    ],
+    "code_xy": [
+      321,
+      4597
+    ],
+    "category": "groundcover"
+  },
+  "HYM": {
+    "bbox": [
+      108,
+      4100,
+      238,
+      4165
+    ],
+    "code_xy": [
+      323,
+      4133
+    ],
+    "category": "grasses"
+  },
+  "ILV": {
+    "bbox": [
+      103,
+      4636,
+      233,
+      4701
+    ],
+    "code_xy": [
+      318,
+      4669
+    ],
+    "category": "groundcover"
+  },
+  "JUP": {
+    "bbox": [
+      107,
+      4708,
+      237,
+      4773
+    ],
+    "code_xy": [
+      322,
+      4740
+    ],
+    "category": "groundcover"
+  },
+  "MUH": {
+    "bbox": [
+      109,
+      4172,
+      239,
+      4237
+    ],
+    "code_xy": [
+      324,
+      4204
+    ],
+    "category": "grasses"
+  },
+  "MULCH": {
+    "bbox": [
+      119,
+      4958,
+      249,
+      5023
+    ],
+    "code_xy": [
+      334,
+      4991
+    ],
+    "category": "sod_mulch"
+  },
+  "PHI": {
+    "bbox": [
+      104,
+      3707,
+      234,
+      3772
+    ],
+    "code_xy": [
+      319,
+      3740
+    ],
+    "category": "shrub_hatch"
+  },
+  "POD": {
+    "bbox": [
+      108,
+      3779,
+      238,
+      3844
+    ],
+    "code_xy": [
+      323,
+      3811
+    ],
+    "category": "shrub_hatch"
+  },
+  "PSY": {
+    "bbox": [
+      107,
+      3850,
+      237,
+      3915
+    ],
+    "code_xy": [
+      322,
+      3882
+    ],
+    "category": "shrub_hatch"
+  },
+  "SAL": {
+    "bbox": [
+      106,
+      4779,
+      236,
+      4844
+    ],
+    "code_xy": [
+      321,
+      4812
+    ],
+    "category": "groundcover"
+  },
+  "SER": {
+    "bbox": [
+      108,
+      3921,
+      238,
+      3986
+    ],
+    "code_xy": [
+      323,
+      3954
+    ],
+    "category": "shrub_hatch"
+  },
+  "SOD": {
+    "bbox": [
+      108,
+      5029,
+      238,
+      5094
+    ],
+    "code_xy": [
+      323,
+      5062
+    ],
+    "category": "sod_mulch"
+  },
+  "TRA": {
+    "bbox": [
+      108,
+      4850,
+      238,
+      4915
+    ],
+    "code_xy": [
+      323,
+      4883
+    ],
+    "category": "groundcover"
+  },
+  "TRF": {
+    "bbox": [
+      107,
+      4314,
+      237,
+      4379
+    ],
+    "code_xy": [
+      322,
+      4347
+    ],
+    "category": "sod_mulch"
+  },
+  "ZAM": {
+    "bbox": [
+      109,
+      3993,
+      239,
+      4058
+    ],
+    "code_xy": [
+      324,
+      4025
+    ],
+    "category": "shrub_hatch"
+  }
+}
