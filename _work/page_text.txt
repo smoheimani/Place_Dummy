@@ -1,0 +1,897 @@
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+A/C
+ELECTRIC VEHICLE
+CHARGING STATION
+c
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+G
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+G
+G
+G
+G
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+R
+G
+G
+G
+G
+G
+G
+G
+G
+G
+STOP
+STOP
+STOP
+STOP
+STOP
+BLDG. 1 (6-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 2 (5-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 3 (7-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 4 (5-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 5 (7-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 6 (6-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 7 (4-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 8 (8-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 9 (7-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 10 (5-UNITS)
+TOWNHOME  (REAR LOAD)
+F.F. = 14.50' N.A.V.D.
+BLDG. 11 (6-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 12 (6-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 13 (6-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 14 (6-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 15 (6-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 16 (6-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 17 (5-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 18 (4-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 19 (5-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 20 (5-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 21 (4-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 22 (5-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 23 (5-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 24 (4-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 25 (5-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 26 (5-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 27 (4-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+BLDG. 28 (5-UNITS)
+VILLA
+F.F. 14.50' N.A.V.D.
+G
+G
+G
+READY
+READY
+READY
+READY
+READY
+READY
+READY
+READY
+G
+G
+G
+G
+G
+READY
+BLDG. 3
+4-UNITS
+TOWNHOME (REAR LOAD)
+T
+T
+SYMBOL
+CODE
+QTY
+BOTANICAL / COMMON NAME
+NATIVE
+DROUGHT TOLERANT
+TREES
+BU
+30
+Bursera simaruba / Gumbo Limbo
+Min. 12` Ht. x 5` Spr. 2" Cal., 6' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 1 TREE)
+Yes
+Yes
+CR
+13
+Clusia rosea / Pitch Apple
+Min. 10` Ht. x 4` Spr. 2" Cal. 5' c.t. Single Straight Trunk, Full
+Canopy (CATEGORY 2 TREE)
+Yes
+Yes
+CO
+10
+Coccoloba diversifolia / Pigeon Plum
+Min. 10` Ht. x 4` Spr., 2" Cal., 5' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 2 TREE)
+Yes
+Yes
+CE
+41
+Conocarpus erectus / Green Buttonwood
+Min. 12` Ht. x 5` Spr., 2.5" Cal., 6' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 1 TREE)
+Yes
+Yes
+CS
+40
+Conocarpus erectus sericeus / Silver Buttonwood
+Min. 10` Ht. x 4` Spr., 1.5" Cal., 5' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 3 TREE)
+Yes
+Yes
+CG
+10
+Cordia sebestena / Orange Geiger Tree
+Min. 10` Ht. x 4` Spr. 2" Cal. Min. 5' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 2 TREE)
+Yes
+Yes
+DR
+7
+Delonix regia / Royal Poinciana
+Min. 18` Ht. x 10` Spr., 6" Cal., Single Straight leader, Full Canopy
+(CATEGORY 1 TREE)
+No
+Yes
+ED
+23
+Elaeocarpus decipiens / Japanese Blueberry Tree
+Min. 10` Ht. x 4` Spr., 2" cal., 5` c.t., Full dense canopy
+(CATEGORY 2 TREE)
+No
+Yes
+LS
+26
+Lagerstroemia speciosa / Queen's Crape Myrtle
+Min. 12' ht., 5' spr., 2" cal. 6' c.t., full canopy (CATEGORY 1 TREE)
+No
+Yes
+LJ
+16
+Ligustrum japonicum / Japanese Privet
+Min. 8` Ht. x 4` Spr. 1.5" Cal., Multi-Trunk, Full Canopy
+(CATEGORY 3 TREE)
+No
+Yes
+QV
+56
+Quercus virginiana / Live Oak
+Min. 12` Ht. x 5` Spr., 2` Cal., 6' c.t., Straight trunk, Full Canopy
+(CATEGORY 1 TREE)
+Yes
+Yes
+PALM TREES
+PE
+12
+Ptychosperma elegans / Alexander palm
+10` Ct, Full canopy, single straight trunk, matched (CATEGORY 4
+TREE)
+No
+Yes
+RE
+13
+Roystonea elata / Florida Royal Palm
+Min. 8` GW, 16` OA Ht., Heavy Straight Trunk, No Scars, Full
+Crown (CATEGORY 4 TREE)
+Yes
+Yes
+SP
+87
+Sabal palmetto / Cabbage Palmetto
+Varying Heights, 12`-16` CT, Slick Straight Trunk (CATEGORY 4
+TREE)
+Yes
+Yes
+SHRUBS
+COR
+33
+Cordyline fruticosa `Red Sister` / Red Sister Ti Plant
+3 PPP, Min. 24" Ht. x 18" Spr., Full to Base and Dense
+No
+Yes
+CRI
+25
+Crinum augustum `Queen Emma` / `Queen Emma` Crinum
+1 PPP, Min. 3` Ht. x 3` Spr., Disease Free, Specimen
+No
+Yes
+POM
+1,031
+Podocarpus macrophyllus `pringles` / Dwarf Podocarpus
+18" Ht. x 18" Spr. 18" O.C. Full and Dense Shrub, Full to Base
+No
+Yes
+SHRUB AREAS
+CAA
+359
+Callicarpa americana / American Beautyberry
+Min. 18" ht.  x 18" spr., 24" o.c., full and dense
+Yes
+Yes
+CHR
+769
+Chrysobalanus icaco `Red Tip` / Red Tip Cocoplum
+Min. 24" HT. x 24" Sprd., Full to Base and Dense, 24" O.C.
+Yes
+Yes
+CLD3
+95
+Clusia Guttifera / Small leaf clusia
+Min. 36" Ht. x 30" Spr, Full to Base and Dense, 30" o.c.
+No
+Yes
+CES
+531
+Conocarpus erectus sericeus / Silver Buttonwood
+Min. 24" Ht. x 24" Spr., Bush Form, Full to Base and Dense, 24"
+O.C.
+Yes
+Yes
+HAM
+1,054
+Hamelia patens 'Calusa' / Dwarf Firebush
+Min., 18" HT. x 18" Spr., Full to Base and Dense, 24" O.C.
+Yes
+Yes
+PHI
+338
+Philodendron'Xanadu' / Dwarf Philodendron
+MIN. 16" X 18" SPR.. 18" O.C.
+No
+Yes
+POD
+488
+Podocarpus macrophyllus / Podocarpus
+Min. 48" Ht. x 18" Spr., Full to Base and Densee, 18" O.C.
+No
+Yes
+PSY
+1,440
+Psychotria nervosa 'Little Psycho' / Dwarf Wild Coffee
+Min. 18" Ht. x 18" Spr. 18" O.C. Full and Dense Shrub, Full to Edge
+of Pot
+Yes
+Yes
+SER
+200
+Serenoa repens / Saw Palmetto
+Min. 36" Ht. x 30" Spr. 30" O.C. Full and Dense Shrub, Full to Edge
+of Pot
+Yes
+Yes
+ZAM
+407
+Zamia pumila / Coontie
+Min. 18" Ht. x 18" Spr., Full and Dense, No Spots, 24" O.C.,
+Yes
+Yes
+GRASSES
+HYM
+952
+Hymenocallis latifolia / Spider Lily
+Min. 18" Ht. x 18" Spr., Fully Rooted and Dense, 18" O.C.,
+Yes
+Yes
+MUH
+736
+Muhlenbergia capillaris / Pink Muhly Grass
+Min. 18" HT. x 18" Sprd., Fully Rooted and Dense, 24" O.C.
+Yes
+Yes
+FAK
+426
+Tripsacum dactyloides / Fakahatchee Grass
+Min. 36" ht. x 24" spr, 30" o.c.
+Yes
+Yes
+TRF
+737
+Tripsacum floridanum / Dwarf Fakahatchee Grass
+Min. 18"  HT. x 18" Sprd., Fully Rooted and Dense, 24" O.C.
+Yes
+Yes
+GROUND COVERS
+FIC
+1,131
+Ficus microcarpa `Green Island` / Green Island Ficus
+Min. 12" Ht. x 12" Sprd., Fully Rooted and Dense, 12" O.C.
+No
+Yes
+GLA
+2,345
+Glandularia maritima / Beach Verbena
+Min. 8" HT. x 8" Sprd., Full and Dense, 12" O.C.
+Yes
+Yes
+HEL
+15
+Helianthus debilis / Dune Sunflower
+Min. 18" Ht. x 18" Sprd., 24" O.C., Full and Dense
+Yes
+Yes
+ILV
+1,302
+Ilex vomitoria `Nana` / Dwarf Yaupon
+Min. 12" Ht. x 12" Spr. 18" O.C. Full and Dense Shrub, Full to Edge
+of Pot
+Yes
+Yes
+JUP
+553
+Juniperus chinensis `parsonii` / Parsoni juniper
+Min. 12" Ht.  x 18" Sprd., 24" O.C., Full and Dense
+No
+Yes
+SAL
+775
+Salvia coccinea / Sage, Tropical Red
+Min. 12" ht. x 12" spr., full to base, 18" o.c.
+Yes
+Yes
+TRA
+509
+Trachelospermum asiaticum `Minima` / Minima Jasmine
+Min. 12" Ht. x 18" Spr., 18" O.C., Full to Edge of Pot
+No
+Yes
+SOD AND MULCH
+MULCH
+51 sf
+Shredded Melaleuca / Mulch
+Free of Foreign Materials and Weeds, Minimum Depth After
+Settling Shall be 3"; Quantity to be Verified in the Field
+N/A
+N/A
+SOD
+69 sf
+Stenotaphrum secundatum `Floritam` / Floritam St. Augustine Sod
+Disease Free, Laid Tightly w/ Staggered Joints, Rolled and Sanded
+to Level Lawn *Quantity to be Verified in the Field
+N/A
+N/A
+PLANT SCHEDULE
+SYMBOL
+CODE
+BOTANICAL / COMMON NAME
+TREES
+BU
+Bursera simaruba / Gumbo Limbo
+Min. 12` Ht. x 5` Spr. 2" Cal., 6' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 1 TREE)
+CR
+Clusia rosea / Pitch Apple
+Min. 10` Ht. x 4` Spr. 2" Cal. 5' c.t. Single Straight Trunk, Full
+Canopy (CATEGORY 2 TREE)
+CO
+Coccoloba diversifolia / Pigeon Plum
+Min. 10` Ht. x 4` Spr., 2" Cal., 5' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 2 TREE)
+CE
+Conocarpus erectus / Green Buttonwood
+Min. 12` Ht. x 5` Spr., 2.5" Cal., 6' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 1 TREE)
+CS
+Conocarpus erectus sericeus / Silver Buttonwood
+Min. 10` Ht. x 4` Spr., 1.5" Cal., 5' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 3 TREE)
+CG
+Cordia sebestena / Orange Geiger Tree
+Min. 10` Ht. x 4` Spr. 2" Cal. Min. 5' c.t., Single Straight Trunk, Full
+Canopy (CATEGORY 2 TREE)
+DR
+Delonix regia / Royal Poinciana
+Min. 18` Ht. x 10` Spr., 6" Cal., Single Straight leader, Full Canopy
+(CATEGORY 1 TREE)
+ED
+Elaeocarpus decipiens / Japanese Blueberry Tree
+Min. 10` Ht. x 4` Spr., 2" cal., 5` c.t., Full dense canopy
+(CATEGORY 2 TREE)
+LS
+Lagerstroemia speciosa / Queen's Crape Myrtle
+Min. 12' ht., 5' spr., 2" cal. 6' c.t., full canopy (CATEGORY 1 TREE)
+LJ
+Ligustrum japonicum / Japanese Privet
+Min. 8` Ht. x 4` Spr. 1.5" Cal., Multi-Trunk, Full Canopy
+(CATEGORY 3 TREE)
+QV
+Quercus virginiana / Live Oak
+Min. 12` Ht. x 5` Spr., 2` Cal., 6' c.t., Straight trunk, Full Canopy
+(CATEGORY 1 TREE)
+PALM TREES
+PE
+Ptychosperma elegans / Alexander palm
+10` Ct, Full canopy, single straight trunk, matched (CATEGORY 4
+TREE)
+RE
+Roystonea elata / Florida Royal Palm
+Min. 8` GW, 16` OA Ht., Heavy Straight Trunk, No Scars, Full
+Crown (CATEGORY 4 TREE)
+SP
+Sabal palmetto / Cabbage Palmetto
+Varying Heights, 12`-16` CT, Slick Straight Trunk (CATEGORY 4
+TREE)
+SHRUBS
+COR
+Cordyline fruticosa `Red Sister` / Red Sister Ti Plant
+3 PPP, Min. 24" Ht. x 18" Spr., Full to Base and Dense
+CRI
+Crinum augustum `Queen Emma` / `Queen Emma` Crinum
+1 PPP, Min. 3` Ht. x 3` Spr., Disease Free, Specimen
+POM
+Podocarpus macrophyllus `pringles` / Dwarf Podocarpus
+18" Ht. x 18" Spr. 18" O.C. Full and Dense Shrub, Full to Base
+SHRUB AREAS
+CAA
+Callicarpa americana / American Beautyberry
+Min. 18" ht.  x 18" spr., 24" o.c., full and dense
+CHR
+Chrysobalanus icaco `Red Tip` / Red Tip Cocoplum
+Min. 24" HT. x 24" Sprd., Full to Base and Dense, 24" O.C.
+CLD3
+Clusia Guttifera / Small leaf clusia
+Min. 36" Ht. x 30" Spr, Full to Base and Dense, 30" o.c.
+CES
+Conocarpus erectus sericeus / Silver Buttonwood
+Min. 24" Ht. x 24" Spr., Bush Form, Full to Base and Dense, 24"
+O.C.
+HAM
+Hamelia patens 'Calusa' / Dwarf Firebush
+Min., 18" HT. x 18" Spr., Full to Base and Dense, 24" O.C.
+PHI
+Philodendron'Xanadu' / Dwarf Philodendron
+MIN. 16" X 18" SPR.. 18" O.C.
+POD
+Podocarpus macrophyllus / Podocarpus
+Min. 48" Ht. x 18" Spr., Full to Base and Densee, 18" O.C.
+PSY
+Psychotria nervosa 'Little Psycho' / Dwarf Wild Coffee
+Min. 18" Ht. x 18" Spr. 18" O.C. Full and Dense Shrub, Full to Edge
+of Pot
+SER
+Serenoa repens / Saw Palmetto
+Min. 36" Ht. x 30" Spr. 30" O.C. Full and Dense Shrub, Full to Edge
+of Pot
+ZAM
+Zamia pumila / Coontie
+Min. 18" Ht. x 18" Spr., Full and Dense, No Spots, 24" O.C.,
+GRASSES
+HYM
+Hymenocallis latifolia / Spider Lily
+Min. 18" Ht. x 18" Spr., Fully Rooted and Dense, 18" O.C.,
+MUH
+Muhlenbergia capillaris / Pink Muhly Grass
+Min. 18" HT. x 18" Sprd., Fully Rooted and Dense, 24" O.C.
+FAK
+Tripsacum dactyloides / Fakahatchee Grass
+Min. 36" ht. x 24" spr, 30" o.c.
+TRF
+Tripsacum floridanum / Dwarf Fakahatchee Grass
+Min. 18"  HT. x 18" Sprd., Fully Rooted and Dense, 24" O.C.
+GROUND COVERS
+FIC
+Ficus microcarpa `Green Island` / Green Island Ficus
+Min. 12" Ht. x 12" Sprd., Fully Rooted and Dense, 12" O.C.
+GLA
+Glandularia maritima / Beach Verbena
+Min. 8" HT. x 8" Sprd., Full and Dense, 12" O.C.
+HEL
+Helianthus debilis / Dune Sunflower
+Min. 18" Ht. x 18" Sprd., 24" O.C., Full and Dense
+ILV
+Ilex vomitoria `Nana` / Dwarf Yaupon
+Min. 12" Ht. x 12" Spr. 18" O.C. Full and Dense Shrub, Full to Edge
+of Pot
+JUP
+Juniperus chinensis `parsonii` / Parsoni juniper
+Min. 12" Ht.  x 18" Sprd., 24" O.C., Full and Dense
+SAL
+Salvia coccinea / Sage, Tropical Red
+Min. 12" ht. x 12" spr., full to base, 18" o.c.
+TRA
+Trachelospermum asiaticum `Minima` / Minima Jasmine
+Min. 12" Ht. x 18" Spr., 18" O.C., Full to Edge of Pot
+SOD AND MULCH
+MULCH
+Shredded Melaleuca / Mulch
+Free of Foreign Materials and Weeds, Minimum Depth After
+Settling Shall be 3"; Quantity to be Verified in the Field
+SOD
+Stenotaphrum secundatum `Floritam` / Floritam St. Augustine Sod
+Disease Free, Laid Tightly w/ Staggered Joints, Rolled and Sanded
+to Level Lawn *Quantity to be Verified in the Field
+PLANT SCHEDULE

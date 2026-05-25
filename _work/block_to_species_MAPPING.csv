@@ -1,0 +1,24 @@
+block_type,species_code,confidence,reason,block_count,block_bbox,species_qty,species_botanical,species_common
+TREE-PALM-011,RE,HIGH,"palm category, count 14 ~ legend 13",14,142.0x136.0,13,Roystonea elata,Royal Palm
+TREE-PALM-041,PE,HIGH,"palm category, count 15 ~ legend 12",15,152.0x144.0,12,Phychosperma elegans,Alexander Palm
+TREE-SIMP-050,SP,HIGH,count 89 ~ legend 87; small bbox 72in is sabal trunk marker,89,72.0x72.0,87,Sabal palmetto,Sabal Palm
+TREE-DCID-450,DR,HIGH,"rarest big tree, count 9 ~ legend 7, largest bbox 240in",9,238.0x240.0,7,Delonix regia,Royal Poinciana
+TREE-EVGR-001,QV,HIGH,only EVGR; oak is evergreen; count 64 ~ legend 56,64,122.0x120.0,56,Quercus virginiana,Live Oak
+TREE-DCID-109,BU,MED,"next-biggest, count 58. BU is 'category 1' tree.",58,236.0x241.0,30,Bursera simaruba,Gumbo Limbo
+TREE-SIMP-027,CE,MED,count 32 ~ legend 41 (CE). cat 1 evergreen-ish,32,228.0x240.0,41,Conocarpus erectus,Green Buttonwood
+TREE-SIMP-005,CS,MED,count 43 ~ legend 40 (CS),43,224.0x227.0,40,Conocarpus erectus sericeus,Silver Buttonwood
+TREE-DCID-208,LS,MED,"count 28 ~ legend 26 (LS Crape Myrtle, deciduous)",28,183.0x180.0,26,Lagerstroemia speciosa,Queen Crape Myrtle
+TREE-DCID-003,ED,LOW,count 44 ~ legend 23 (ED). uncertain.,44,150.0x144.0,23,Elaeocarpus decipiens,Japanese Blueberry
+TREE-SIMP-021,LJ,LOW,count 44 vs LJ 16 -- weak. Could be a CE/CS variant.,44,151.0x148.0,16,Ligustrum japonicum,Ligustrum
+TREE-SIMP-007,CR,LOW,count 44 vs CR 13 -- weak.,44,118.0x120.0,13,Clusia rosea,Pitch Apple
+TREE-SIMP-024,CG,LOW,count 15 vs CG 10. plausible category 2,15,191.0x192.0,10,Cordia sebestena,Orange Geiger
+TREE-SIMP-025,CO,LOW,count 15 vs CO 10. plausible category 2,15,146.0x143.0,10,Coccoloba diversifolia,Pigeon Plum
+TREE-SIMP-125,CR,LOW,count 42 -- weak,42,122.0x119.0,13,Clusia rosea,Pitch Apple
+TREE-SIMP-222,CG,LOW,count 12 ~ CG 10 (overlap with -024),12,130.0x144.0,10,Cordia sebestena,Orange Geiger
+SHRUB-LRG-020,POM,HIGH,count 1033 ~ legend 1031; perfect 18in match,1033,18.0x18.0,1031,Podocarpus macrophyllus 'pringles',Dwarf Podocarpus
+SHRUB-LRG-241,PSY,MED,"count 483 -- next largest, shrub-area",483,24.0x24.0,1440,Psychotria nervosa,Wild Coffee
+SHRUB-LRG-003,HAM,MED,count 220 -- HAM (1054) or POD (488) ?,220,26.0x25.0,1054,Hamelia patens,Dwarf Firebush
+SHRUB-LRG-121,CHR,LOW,count 106 -- many candidates,106,24.0x24.0,769,Chrysobalanus icaco,Red Tip Cocoplum
+SHRUB-LRG-421,CES,LOW,count 81 -- many candidates,81,35.0x36.0,531,Conocarpus erectus sericeus,Silver Buttonwood shrub
+SHRUB-TROP-021,CRI,LOW,"tropical, count 49. legend CRI=25",49,47.0x48.0,25,Crinum augustum,Queen Emma Crinum
+SHRUB-TROP-045,COR,LOW,"tropical, count 14. legend COR=33",14,48.0x48.0,33,Cordyline fruticosa,Red Sister Ti

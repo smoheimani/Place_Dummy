@@ -1,0 +1,700 @@
+=== probe_dwg.ms start ===
+3ds Max version: #(25000, 62, 0, 25, 3, 5, 326, 2023, ".3.5 Security Fix")
+System units: inches scale=1.0
+Display units: us
+DWG file exists: true
+importFile returned: true
+Total objects after import: 9728
+
+=== Layers (count=174) ===
+  layer[0]: 0
+  layer[1]: -u-site-xref
+  layer[2]: Site Plan$0$-u-site-fence
+  layer[3]: Site Plan$0$-u-site-parking_strip
+  layer[4]: Site Plan$0$SP-PAVERS-BANDS
+  layer[5]: Site Plan$0$-u-site-wall
+  layer[6]: Site Plan$0$-u-site-parking_overhang
+  layer[7]: Site Plan$0$-u-site-amenities
+  layer[8]: Site Plan$0$-u-site-edge_of_pavement
+  layer[9]: Site Plan$0$SP-SIDEWALK
+  layer[10]: Site Plan$0$SP-SIGNAGE
+  layer[11]: Site Plan$0$SP-PAVEMENT MARKINGS
+  layer[12]: Site Plan$0$SP-SIGNS
+  layer[13]: Site Plan$0$SP-BOLLARDS
+  layer[14]: Site Plan$0$SP-CALL BOX
+  layer[15]: Site Plan$0$SP-PAVEMENT MARKINGS-YELLOW
+  layer[16]: Site Plan$0$SP-RESIDENT PARKING
+  layer[17]: Site Plan$0$SP-CL
+  layer[18]: Site Plan$0$SP-BIKE RACK
+  layer[19]: Site Plan$0$SP-PARKING-STRIPE
+  layer[20]: Site Plan$0$SP-CURB
+  layer[21]: Site Plan$0$-u-site-propline
+  layer[22]: Site Plan$0$-u-site-bldg_interior
+  layer[23]: Site Plan$0$-u-site-bldg-slab
+  layer[24]: Site Plan$0$SP-BLDG-ROOF ABOVE
+  layer[25]: Site Plan$0$A-DOOR
+  layer[26]: Site Plan$0$A-HVAC-EXT
+  layer[27]: Site Plan$0$A-DOOR-EXT_WINDOWS
+  layer[28]: Site Plan$0$SP-BUILDING-FOOTPRINT
+  layer[29]: Site Plan$0$SP-LOT LINES
+  layer[30]: Site Plan$0$A-PART-FULL
+  layer[31]: Site Plan$0$A-STAIR
+  layer[32]: Site Plan$0$A-SILL
+  layer[33]: Site Plan$0$E-PLAN
+  layer[34]: Site Plan$0$SP-PARKING DESIGNATION
+  layer[35]: Site Plan$0$-PKG COUNT-RESIDENT
+  layer[36]: Site Plan$0$-PKG COUNT-EV
+  layer[37]: Site Plan$0$-PKG COUNT-HC
+  layer[38]: Site Plan$0$-PKG COUNT-GUEST
+  layer[39]: Site Plan$0$SP-RPMs
+  layer[40]: Site Plan$0$-PKG COUNT-EVR
+  layer[41]: Site Plan$0$-u-site-sidewalk
+  layer[42]: Site Plan$0$SP-TRELLIS
+  layer[43]: -u-site-text
+  layer[44]: LP-TREE
+  layer[45]: LK-TREE-050M
+  layer[46]: LK-TREE-TRNK
+  layer[47]: LK-TREE-035M
+  layer[48]: LK-TREE-025M
+  layer[49]: LK-TREE-013M
+  layer[50]: x-RL TH4-LP Block$0$LP-SHAR-BRDR-CONT
+  layer[51]: x-RL TH4-LP Block$0$LP-SHRB
+  layer[52]: x-RL TH4-LP Block$0$LK-SHRB-035M
+  layer[53]: x-RL TH4-LP Block$0$LK-SHRB-TRNK
+  layer[54]: x-RL TH4-LP Block$0$LK-SHRB-013M
+  layer[55]: x-RL TH4-LP Block$0$LP-TREE
+  layer[56]: x-RL TH4-LP Block$0$LK-TREE-035M
+  layer[57]: x-RL TH4-LP Block$0$LK-TREE-050M
+  layer[58]: x-RL TH4-LP Block$0$LK-TREE-013M
+  layer[59]: x-RL TH4-LP Block$0$LK-TREE-TRNK
+  layer[60]: x-RL TH4-LP Block$0$L-002
+  layer[61]: x-RL TH4-LP Block$0$-u-site-no_plot
+  layer[62]: x-RL TH5-LP Block$0$LP-SHAR-BRDR-CONT
+  layer[63]: x-RL TH5-LP Block$0$LP-TREE
+  layer[64]: x-RL TH5-LP Block$0$LK-TREE-050M
+  layer[65]: x-RL TH5-LP Block$0$LK-TREE-TRNK
+  layer[66]: x-RL TH5-LP Block$0$L-002
+  layer[67]: x-RL TH5-LP Block$0$LP-SHRB
+  layer[68]: x-RL TH5-LP Block$0$LK-SHRB-TRNK
+  layer[69]: x-RL TH5-LP Block$0$LK-SHRB-035M
+  layer[70]: x-RL TH5-LP Block$0$LK-SHRB-013M
+  layer[71]: x-RL TH5-LP Block$0$LK-TREE-035M
+  layer[72]: x-RL TH5-LP Block$0$LK-TREE-013M
+  layer[73]: x-RL TH5-LP Block$0$-u-site-no_plot
+  layer[74]: x-RL TH6-LP Block$0$LP-SHAR-BRDR-CONT
+  layer[75]: x-RL TH6-LP Block$0$LP-SHRB
+  layer[76]: x-RL TH6-LP Block$0$LK-SHRB-035M
+  layer[77]: x-RL TH6-LP Block$0$LK-SHRB-TRNK
+  layer[78]: x-RL TH6-LP Block$0$LK-SHRB-013M
+  layer[79]: x-RL TH6-LP Block$0$LP-TREE
+  layer[80]: x-RL TH6-LP Block$0$LK-TREE-035M
+  layer[81]: x-RL TH6-LP Block$0$LK-TREE-050M
+  layer[82]: x-RL TH6-LP Block$0$LK-TREE-013M
+  layer[83]: x-RL TH6-LP Block$0$LK-TREE-TRNK
+  layer[84]: x-RL TH6-LP Block$0$L-002
+  layer[85]: x-RL TH6-LP Block$0$-u-site-no_plot
+  layer[86]: x-RL TH7-LP Block$0$LP-SHAR-BRDR-CONT
+  layer[87]: x-RL TH7-LP Block$0$LP-TREE
+  layer[88]: x-RL TH7-LP Block$0$LK-TREE-050M
+  layer[89]: x-RL TH7-LP Block$0$LK-TREE-TRNK
+  layer[90]: x-RL TH7-LP Block$0$L-002
+  layer[91]: x-RL TH7-LP Block$0$LP-SHRB
+  layer[92]: x-RL TH7-LP Block$0$LK-SHRB-TRNK
+  layer[93]: x-RL TH7-LP Block$0$LK-SHRB-035M
+  layer[94]: x-RL TH7-LP Block$0$LK-SHRB-013M
+  layer[95]: x-RL TH7-LP Block$0$LK-TREE-035M
+  layer[96]: x-RL TH7-LP Block$0$LK-TREE-013M
+  layer[97]: x-RL TH7-LP Block$0$-u-site-no_plot
+  layer[98]: x-RL TH8-LP Block$0$LP-SHAR-BRDR-CONT
+  layer[99]: x-RL TH8-LP Block$0$LP-SHRB
+  layer[100]: x-RL TH8-LP Block$0$LK-SHRB-035M
+  layer[101]: x-RL TH8-LP Block$0$LK-SHRB-TRNK
+  layer[102]: x-RL TH8-LP Block$0$LP-TREE
+  layer[103]: x-RL TH8-LP Block$0$LK-TREE-035M
+  layer[104]: x-RL TH8-LP Block$0$LK-TREE-050M
+  layer[105]: x-RL TH8-LP Block$0$LK-TREE-013M
+  layer[106]: x-RL TH8-LP Block$0$LK-TREE-TRNK
+  layer[107]: x-RL TH8-LP Block$0$L-002
+  layer[108]: x-RL TH8-LP Block$0$LK-SHRB-013M
+  layer[109]: x-RL TH8-LP Block$0$-u-site-no_plot
+  layer[110]: x-Villa4-LP Block$0$LP-SHAR-BRDR-CONT
+  layer[111]: x-Villa4-LP Block$0$L-002
+  layer[112]: x-Villa4-LP Block$0$LP-SHRB
+  layer[113]: x-Villa4-LP Block$0$LK-SHRB-TRNK
+  layer[114]: x-Villa4-LP Block$0$LK-SHRB-035M
+  layer[115]: x-Villa4-LP Block$0$LP-TREE
+  layer[116]: x-Villa4-LP Block$0$LK-TREE-013M
+  layer[117]: x-Villa4-LP Block$0$LK-TREE-050M
+  layer[118]: x-Villa4-LP Block$0$LK-TREE-TRNK
+  layer[119]: x-Villa4-LP Block$0$LK-TREE-025M
+  layer[120]: x-Villa4-LP Block$0$LK-SHRB-013M
+  layer[121]: x-Villa4-LP Block$0$-u-site-no_plot
+  layer[122]: LP-SHAR-BRDR-CONT
+  layer[123]: LP-SHRB
+  layer[124]: LK-SHRB-035M
+  layer[125]: LK-SHRB-TRNK
+  layer[126]: L-002
+  layer[127]: -u-site-Light setback line
+  layer[128]: UT-TRANS-BLOCK 11
+  layer[129]: x-Villa5-LP Block$0$LP-SHAR-BRDR-CONT
+  layer[130]: x-Villa5-LP Block$0$L-002
+  layer[131]: x-Villa5-LP Block$0$LP-SHRB
+  layer[132]: x-Villa5-LP Block$0$LK-SHRB-TRNK
+  layer[133]: x-Villa5-LP Block$0$LK-SHRB-013M
+  layer[134]: x-Villa5-LP Block$0$LK-SHRB-025M
+  layer[135]: x-Villa5-LP Block$0$LK-SHRB-035M
+  layer[136]: x-Villa5-LP Block$0$LP-TREE
+  layer[137]: x-Villa5-LP Block$0$LK-TREE-013M
+  layer[138]: x-Villa5-LP Block$0$LK-TREE-050M
+  layer[139]: x-Villa5-LP Block$0$LK-TREE-TRNK
+  layer[140]: x-Villa5-LP Block$0$LK-TREE-025M
+  layer[141]: x-Villa5-LP Block$0$-u-site-no_plot
+  layer[142]: x-Villa6-LP Block$0$LP-SHAR-BRDR-CONT
+  layer[143]: x-Villa6-LP Block$0$L-002
+  layer[144]: x-Villa6-LP Block$0$LP-TREE
+  layer[145]: x-Villa6-LP Block$0$LK-TREE-013M
+  layer[146]: x-Villa6-LP Block$0$LK-TREE-050M
+  layer[147]: x-Villa6-LP Block$0$LK-TREE-TRNK
+  layer[148]: x-Villa6-LP Block$0$LK-TREE-025M
+  layer[149]: x-Villa6-LP Block$0$LP-SHRB
+  layer[150]: x-Villa6-LP Block$0$LK-SHRB-TRNK
+  layer[151]: x-Villa6-LP Block$0$LK-SHRB-035M
+  layer[152]: x-Villa6-LP Block$0$LK-SHRB-013M
+  layer[153]: x-Villa6-LP Block$0$LK-SHRB-025M
+  layer[154]: x-Villa6-LP Block$0$LP-PATT-SHAR
+  layer[155]: L-SCHD-TEXT-035M
+  layer[156]: 'DSB_SIDEWALK
+  layer[157]: -OSP_OFF SITE TEXT
+  layer[158]: SP-BUILDING-FOOTPRINT
+  layer[159]: -u-site-root barrier
+  layer[160]: LP-ANNO-LABL-SHRB
+  layer[161]: -u-site-utility clear zone
+  layer[162]: PDF2_SP-CONCRETE
+  layer[163]: PDF2_SP-PAVERS
+  layer[164]: PDF2_SP-GRASS
+  layer[165]: PDF2_SP-Pavement
+  layer[166]: PDF2_SP-Lot Lines
+  layer[167]: PDF2_SP-WATER METER-PARTS
+  layer[168]: PDF2_SP-PROPERTY LINE
+  layer[169]: PDF2_SP-ANNO
+  layer[170]: PDF2_SP-ANNO-DIMS
+  layer[171]: -u-site-propline
+  layer[172]: LP-ANNO-LABL-TRGC
+  layer[173]: X-SYMB-025M
+
+=== Per-layer object counts ===
+32  -u-site-xref
+168  Site Plan$0$-u-site-fence
+44  Site Plan$0$-u-site-parking_strip
+1  Site Plan$0$SP-PAVERS-BANDS
+44  Site Plan$0$-u-site-wall
+1  Site Plan$0$-u-site-parking_overhang
+8  Site Plan$0$-u-site-amenities
+1  Site Plan$0$-u-site-edge_of_pavement
+1  Site Plan$0$SP-SIDEWALK
+1  Site Plan$0$SP-SIGNAGE
+1  Site Plan$0$SP-PAVEMENT MARKINGS
+1  Site Plan$0$SP-SIGNS
+1  Site Plan$0$SP-BOLLARDS
+1  Site Plan$0$SP-CALL BOX
+1  Site Plan$0$SP-PAVEMENT MARKINGS-YELLOW
+1  Site Plan$0$SP-RESIDENT PARKING
+1  Site Plan$0$SP-CL
+1  Site Plan$0$SP-BIKE RACK
+1  Site Plan$0$SP-PARKING-STRIPE
+1  Site Plan$0$SP-CURB
+1  Site Plan$0$-u-site-propline
+386  Site Plan$0$-u-site-bldg_interior
+1  Site Plan$0$-u-site-bldg-slab
+1  Site Plan$0$SP-BLDG-ROOF ABOVE
+57  Site Plan$0$A-DOOR
+121  Site Plan$0$A-HVAC-EXT
+149  Site Plan$0$A-DOOR-EXT_WINDOWS
+1  Site Plan$0$SP-BUILDING-FOOTPRINT
+1  Site Plan$0$SP-LOT LINES
+1  Site Plan$0$A-PART-FULL
+1  Site Plan$0$A-STAIR
+1  Site Plan$0$A-SILL
+1  Site Plan$0$E-PLAN
+1  Site Plan$0$SP-PARKING DESIGNATION
+1  Site Plan$0$-PKG COUNT-RESIDENT
+1  Site Plan$0$-PKG COUNT-EV
+1  Site Plan$0$-PKG COUNT-HC
+1  Site Plan$0$-PKG COUNT-GUEST
+1  Site Plan$0$SP-RPMs
+1  Site Plan$0$-PKG COUNT-EVR
+3  Site Plan$0$-u-site-sidewalk
+1  Site Plan$0$SP-TRELLIS
+2  -u-site-text
+384  LP-TREE
+388  LK-TREE-050M
+412  LK-TREE-TRNK
+149  LK-TREE-035M
+109  LK-TREE-025M
+161  LK-TREE-013M
+1  x-RL TH4-LP Block$0$LP-SHAR-BRDR-CONT
+58  x-RL TH4-LP Block$0$LP-SHRB
+58  x-RL TH4-LP Block$0$LK-SHRB-035M
+58  x-RL TH4-LP Block$0$LK-SHRB-TRNK
+2  x-RL TH4-LP Block$0$LK-SHRB-013M
+4  x-RL TH4-LP Block$0$LP-TREE
+2  x-RL TH4-LP Block$0$LK-TREE-035M
+4  x-RL TH4-LP Block$0$LK-TREE-050M
+2  x-RL TH4-LP Block$0$LK-TREE-013M
+4  x-RL TH4-LP Block$0$LK-TREE-TRNK
+1  x-RL TH4-LP Block$0$L-002
+1  x-RL TH4-LP Block$0$-u-site-no_plot
+3  x-RL TH5-LP Block$0$LP-SHAR-BRDR-CONT
+15  x-RL TH5-LP Block$0$LP-TREE
+15  x-RL TH5-LP Block$0$LK-TREE-050M
+15  x-RL TH5-LP Block$0$LK-TREE-TRNK
+3  x-RL TH5-LP Block$0$L-002
+204  x-RL TH5-LP Block$0$LP-SHRB
+204  x-RL TH5-LP Block$0$LK-SHRB-TRNK
+204  x-RL TH5-LP Block$0$LK-SHRB-035M
+6  x-RL TH5-LP Block$0$LK-SHRB-013M
+3  x-RL TH5-LP Block$0$LK-TREE-035M
+3  x-RL TH5-LP Block$0$LK-TREE-013M
+3  x-RL TH5-LP Block$0$-u-site-no_plot
+2  x-RL TH6-LP Block$0$LP-SHAR-BRDR-CONT
+148  x-RL TH6-LP Block$0$LP-SHRB
+148  x-RL TH6-LP Block$0$LK-SHRB-035M
+148  x-RL TH6-LP Block$0$LK-SHRB-TRNK
+4  x-RL TH6-LP Block$0$LK-SHRB-013M
+12  x-RL TH6-LP Block$0$LP-TREE
+4  x-RL TH6-LP Block$0$LK-TREE-035M
+12  x-RL TH6-LP Block$0$LK-TREE-050M
+4  x-RL TH6-LP Block$0$LK-TREE-013M
+12  x-RL TH6-LP Block$0$LK-TREE-TRNK
+2  x-RL TH6-LP Block$0$L-002
+2  x-RL TH6-LP Block$0$-u-site-no_plot
+3  x-RL TH7-LP Block$0$LP-SHAR-BRDR-CONT
+21  x-RL TH7-LP Block$0$LP-TREE
+21  x-RL TH7-LP Block$0$LK-TREE-050M
+21  x-RL TH7-LP Block$0$LK-TREE-TRNK
+3  x-RL TH7-LP Block$0$L-002
+270  x-RL TH7-LP Block$0$LP-SHRB
+270  x-RL TH7-LP Block$0$LK-SHRB-TRNK
+270  x-RL TH7-LP Block$0$LK-SHRB-035M
+6  x-RL TH7-LP Block$0$LK-SHRB-013M
+6  x-RL TH7-LP Block$0$LK-TREE-035M
+6  x-RL TH7-LP Block$0$LK-TREE-013M
+3  x-RL TH7-LP Block$0$-u-site-no_plot
+1  x-RL TH8-LP Block$0$LP-SHAR-BRDR-CONT
+80  x-RL TH8-LP Block$0$LP-SHRB
+80  x-RL TH8-LP Block$0$LK-SHRB-035M
+80  x-RL TH8-LP Block$0$LK-SHRB-TRNK
+8  x-RL TH8-LP Block$0$LP-TREE
+4  x-RL TH8-LP Block$0$LK-TREE-035M
+8  x-RL TH8-LP Block$0$LK-TREE-050M
+4  x-RL TH8-LP Block$0$LK-TREE-013M
+8  x-RL TH8-LP Block$0$LK-TREE-TRNK
+1  x-RL TH8-LP Block$0$L-002
+2  x-RL TH8-LP Block$0$LK-SHRB-013M
+1  x-RL TH8-LP Block$0$-u-site-no_plot
+5  x-Villa4-LP Block$0$LP-SHAR-BRDR-CONT
+5  x-Villa4-LP Block$0$L-002
+35  x-Villa4-LP Block$0$LP-SHRB
+35  x-Villa4-LP Block$0$LK-SHRB-TRNK
+35  x-Villa4-LP Block$0$LK-SHRB-035M
+25  x-Villa4-LP Block$0$LP-TREE
+10  x-Villa4-LP Block$0$LK-TREE-013M
+20  x-Villa4-LP Block$0$LK-TREE-050M
+20  x-Villa4-LP Block$0$LK-TREE-TRNK
+10  x-Villa4-LP Block$0$LK-TREE-025M
+20  x-Villa4-LP Block$0$LK-SHRB-013M
+5  x-Villa4-LP Block$0$-u-site-no_plot
+1  LP-SHAR-BRDR-CONT
+1089  LP-SHRB
+1095  LK-SHRB-035M
+1095  LK-SHRB-TRNK
+1  L-002
+1  -u-site-Light setback line
+4  UT-TRANS-BLOCK 11
+8  x-Villa5-LP Block$0$LP-SHAR-BRDR-CONT
+8  x-Villa5-LP Block$0$L-002
+72  x-Villa5-LP Block$0$LP-SHRB
+72  x-Villa5-LP Block$0$LK-SHRB-TRNK
+56  x-Villa5-LP Block$0$LK-SHRB-013M
+8  x-Villa5-LP Block$0$LK-SHRB-025M
+72  x-Villa5-LP Block$0$LK-SHRB-035M
+48  x-Villa5-LP Block$0$LP-TREE
+24  x-Villa5-LP Block$0$LK-TREE-013M
+40  x-Villa5-LP Block$0$LK-TREE-050M
+40  x-Villa5-LP Block$0$LK-TREE-TRNK
+16  x-Villa5-LP Block$0$LK-TREE-025M
+8  x-Villa5-LP Block$0$-u-site-no_plot
+6  x-Villa6-LP Block$0$LP-SHAR-BRDR-CONT
+6  x-Villa6-LP Block$0$L-002
+42  x-Villa6-LP Block$0$LP-TREE
+18  x-Villa6-LP Block$0$LK-TREE-013M
+36  x-Villa6-LP Block$0$LK-TREE-050M
+36  x-Villa6-LP Block$0$LK-TREE-TRNK
+18  x-Villa6-LP Block$0$LK-TREE-025M
+24  x-Villa6-LP Block$0$LP-SHRB
+24  x-Villa6-LP Block$0$LK-SHRB-TRNK
+24  x-Villa6-LP Block$0$LK-SHRB-035M
+24  x-Villa6-LP Block$0$LK-SHRB-013M
+6  x-Villa6-LP Block$0$LK-SHRB-025M
+6  x-Villa6-LP Block$0$LP-PATT-SHAR
+42  L-SCHD-TEXT-035M
+1  'DSB_SIDEWALK
+2  -OSP_OFF SITE TEXT
+1  SP-BUILDING-FOOTPRINT
+1  -u-site-root barrier
+109  LP-ANNO-LABL-SHRB
+109  -u-site-utility clear zone
+1  PDF2_SP-CONCRETE
+1  PDF2_SP-PAVERS
+1  PDF2_SP-GRASS
+1  PDF2_SP-Pavement
+1  PDF2_SP-Lot Lines
+1  PDF2_SP-WATER METER-PARTS
+1  PDF2_SP-PROPERTY LINE
+2  PDF2_SP-ANNO
+1  PDF2_SP-ANNO-DIMS
+1  -u-site-propline
+1  LP-ANNO-LABL-TRGC
+1  X-SYMB-025M
+
+=== Per-class object counts ===
+3179  LinkComposite
+6531  SplineShape
+2  PolymorphicGeom
+16  Editable_mesh
+
+=== Distinct object names (252 total) ===
+1  Block:Site Plan
+21  Layer:Site Plan$0$-u-site-fence
+22  Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW
+22  Layer:Site Plan$0$-u-site-parking_strip
+1  Layer:Site Plan$0$SP-PAVERS-BANDS
+3  Block:Site Plan$0$_Details_TH7_wall
+22  Layer:Site Plan$0$-u-site-wall
+2  Block:Site Plan$0$_Details_TH6_wall
+12  Block:Site Plan$0$_Details_Kneewall&GATE
+3  Block:Site Plan$0$_Details_TH5_wall
+1  Block:Site Plan$0$_Details_TH8_wall
+1  Block:Site Plan$0$A$C8793d83c
+1  Layer:Site Plan$0$-u-site-parking_overhang
+2  Block:Site Plan$0$A$C54fb410d-flat-1-flat-1
+6  Layer:Site Plan$0$-u-site-amenities
+1  Layer:Site Plan$0$-u-site-edge_of_pavement
+1  Layer:Site Plan$0$SP-SIDEWALK
+1  Layer:Site Plan$0$SP-SIGNAGE
+1  Layer:Site Plan$0$SP-PAVEMENT MARKINGS
+1  Layer:Site Plan$0$SP-SIGNS
+1  Layer:Site Plan$0$SP-BOLLARDS
+1  Layer:Site Plan$0$SP-CALL BOX
+1  Layer:Site Plan$0$SP-PAVEMENT MARKINGS-YELLOW
+1  Layer:Site Plan$0$SP-RESIDENT PARKING
+1  Layer:Site Plan$0$SP-CL
+1  Layer:Site Plan$0$SP-BIKE RACK
+1  Layer:Site Plan$0$SP-PARKING-STRIPE
+1  Layer:Site Plan$0$SP-CURB
+1  Layer:Site Plan$0$-u-site-propline
+165  Layer:Site Plan$0$-u-site-bldg_interior
+1  Layer:Site Plan$0$-u-site-bldg-slab
+1  Layer:Site Plan$0$SP-BLDG-ROOF ABOVE
+104  Block:Site Plan$0$DR1H902
+57  Block:Site Plan$0$D26R
+57  Layer:Site Plan$0$A-DOOR
+60  Block:Site Plan$0$A$C11AE1C12
+61  Layer:Site Plan$0$A-HVAC-EXT
+149  Block:Site Plan$0$A$C05C92244
+149  Layer:Site Plan$0$A-DOOR-EXT_WINDOWS
+1  Layer:Site Plan$0$SP-BUILDING-FOOTPRINT
+1  Layer:Site Plan$0$SP-LOT LINES
+1  Layer:Site Plan$0$A-PART-FULL
+1  Layer:Site Plan$0$A-STAIR
+52  Block:Site Plan$0$A$C4e4189c5
+4  Block:Site Plan$0$A$C4e4189c5-flat-1
+4  Block:Site Plan$0$DR1H902-flat-1
+1  Layer:Site Plan$0$A-SILL
+1  Layer:Site Plan$0$E-PLAN
+1  Layer:Site Plan$0$SP-PARKING DESIGNATION
+1  Layer:Site Plan$0$-PKG COUNT-RESIDENT
+1  Layer:Site Plan$0$-PKG COUNT-EV
+1  Layer:Site Plan$0$-PKG COUNT-HC
+1  Layer:Site Plan$0$-PKG COUNT-GUEST
+1  Layer:Site Plan$0$SP-RPMs
+1  Layer:Site Plan$0$-PKG COUNT-EVR
+3  Block:Site Plan$0$Mail Kiosk-flat-1-flat-1
+1  Layer:Site Plan$0$SP-TRELLIS
+2  Layer:-u-site-text
+32  Block:TREE-SIMP-027
+388  Layer:LK-TREE-050M
+412  Layer:LK-TREE-TRNK
+58  Block:TREE-DCID-109
+149  Layer:LK-TREE-035M
+109  Layer:LK-TREE-025M
+161  Layer:LK-TREE-013M
+1  Block:x-RL TH4-LP Block
+1  Layer:x-RL TH4-LP Block$0$LP-SHAR-BRDR-CONT
+4  Block:x-RL TH4-LP Block$0$SHRUB-LRG-421
+58  Layer:x-RL TH4-LP Block$0$LK-SHRB-035M
+58  Layer:x-RL TH4-LP Block$0$LK-SHRB-TRNK
+2  Block:x-RL TH4-LP Block$0$SHRUB-LRG-121
+2  Layer:x-RL TH4-LP Block$0$LK-SHRB-013M
+2  Block:x-RL TH4-LP Block$0$TREE-DCID-003
+2  Layer:x-RL TH4-LP Block$0$LK-TREE-035M
+4  Layer:x-RL TH4-LP Block$0$LK-TREE-050M
+2  Layer:x-RL TH4-LP Block$0$LK-TREE-013M
+4  Layer:x-RL TH4-LP Block$0$LK-TREE-TRNK
+2  Block:x-RL TH4-LP Block$0$TREE-SIMP-021
+1  Layer:x-RL TH4-LP Block$0$L-002
+36  Block:x-RL TH4-LP Block$0$SHRUB-LRG-241
+16  Block:x-RL TH4-LP Block$0$SHRUB-LRG-003
+1  Layer:x-RL TH4-LP Block$0$-u-site-no_plot
+3  Block:x-RL TH5-LP Block
+3  Layer:x-RL TH5-LP Block$0$LP-SHAR-BRDR-CONT
+6  Block:x-RL TH5-LP Block$0$TREE-SIMP-021
+15  Layer:x-RL TH5-LP Block$0$LK-TREE-050M
+15  Layer:x-RL TH5-LP Block$0$LK-TREE-TRNK
+3  Layer:x-RL TH5-LP Block$0$L-002
+6  Block:x-RL TH5-LP Block$0$SHRUB-LRG-121
+204  Layer:x-RL TH5-LP Block$0$LK-SHRB-TRNK
+204  Layer:x-RL TH5-LP Block$0$LK-SHRB-035M
+6  Layer:x-RL TH5-LP Block$0$LK-SHRB-013M
+6  Block:x-RL TH5-LP Block$0$TREE-SIMP-024
+6  Block:x-RL TH5-LP Block$0$SHRUB-LRG-421
+3  Block:x-RL TH5-LP Block$0$TREE-DCID-003
+3  Layer:x-RL TH5-LP Block$0$LK-TREE-035M
+3  Layer:x-RL TH5-LP Block$0$LK-TREE-013M
+147  Block:x-RL TH5-LP Block$0$SHRUB-LRG-241
+45  Block:x-RL TH5-LP Block$0$SHRUB-LRG-003
+3  Layer:x-RL TH5-LP Block$0$-u-site-no_plot
+2  Block:x-RL TH6-LP Block
+2  Layer:x-RL TH6-LP Block$0$LP-SHAR-BRDR-CONT
+8  Block:x-RL TH6-LP Block$0$SHRUB-LRG-421
+148  Layer:x-RL TH6-LP Block$0$LK-SHRB-035M
+148  Layer:x-RL TH6-LP Block$0$LK-SHRB-TRNK
+4  Block:x-RL TH6-LP Block$0$SHRUB-LRG-121
+4  Layer:x-RL TH6-LP Block$0$LK-SHRB-013M
+4  Block:x-RL TH6-LP Block$0$TREE-DCID-003
+4  Layer:x-RL TH6-LP Block$0$LK-TREE-035M
+12  Layer:x-RL TH6-LP Block$0$LK-TREE-050M
+4  Layer:x-RL TH6-LP Block$0$LK-TREE-013M
+12  Layer:x-RL TH6-LP Block$0$LK-TREE-TRNK
+2  Layer:x-RL TH6-LP Block$0$L-002
+6  Block:x-RL TH6-LP Block$0$TREE-SIMP-021
+4  Block:x-RL TH6-LP Block$0$SHRUB-TROP-021
+2  Block:x-RL TH6-LP Block$0$TREE-SIMP-024
+76  Block:x-RL TH6-LP Block$0$SHRUB-LRG-241
+56  Block:x-RL TH6-LP Block$0$SHRUB-LRG-003
+2  Layer:x-RL TH6-LP Block$0$-u-site-no_plot
+3  Block:x-RL TH7-LP Block
+3  Layer:x-RL TH7-LP Block$0$LP-SHAR-BRDR-CONT
+9  Block:x-RL TH7-LP Block$0$TREE-SIMP-021
+21  Layer:x-RL TH7-LP Block$0$LK-TREE-050M
+21  Layer:x-RL TH7-LP Block$0$LK-TREE-TRNK
+3  Layer:x-RL TH7-LP Block$0$L-002
+6  Block:x-RL TH7-LP Block$0$SHRUB-LRG-121
+270  Layer:x-RL TH7-LP Block$0$LK-SHRB-TRNK
+270  Layer:x-RL TH7-LP Block$0$LK-SHRB-035M
+6  Layer:x-RL TH7-LP Block$0$LK-SHRB-013M
+6  Block:x-RL TH7-LP Block$0$TREE-SIMP-024
+6  Block:x-RL TH7-LP Block$0$SHRUB-LRG-421
+6  Block:x-RL TH7-LP Block$0$TREE-DCID-003
+6  Layer:x-RL TH7-LP Block$0$LK-TREE-035M
+6  Layer:x-RL TH7-LP Block$0$LK-TREE-013M
+3  Block:x-RL TH7-LP Block$0$SHRUB-TROP-021
+180  Block:x-RL TH7-LP Block$0$SHRUB-LRG-241
+75  Block:x-RL TH7-LP Block$0$SHRUB-LRG-003
+3  Layer:x-RL TH7-LP Block$0$-u-site-no_plot
+1  Block:x-RL TH8-LP Block
+1  Layer:x-RL TH8-LP Block$0$LP-SHAR-BRDR-CONT
+6  Block:x-RL TH8-LP Block$0$SHRUB-LRG-421
+80  Layer:x-RL TH8-LP Block$0$LK-SHRB-035M
+80  Layer:x-RL TH8-LP Block$0$LK-SHRB-TRNK
+4  Block:x-RL TH8-LP Block$0$TREE-DCID-003
+4  Layer:x-RL TH8-LP Block$0$LK-TREE-035M
+8  Layer:x-RL TH8-LP Block$0$LK-TREE-050M
+4  Layer:x-RL TH8-LP Block$0$LK-TREE-013M
+8  Layer:x-RL TH8-LP Block$0$LK-TREE-TRNK
+1  Layer:x-RL TH8-LP Block$0$L-002
+2  Block:x-RL TH8-LP Block$0$SHRUB-LRG-121
+2  Layer:x-RL TH8-LP Block$0$LK-SHRB-013M
+3  Block:x-RL TH8-LP Block$0$TREE-SIMP-021
+1  Block:x-RL TH8-LP Block$0$TREE-SIMP-024
+44  Block:x-RL TH8-LP Block$0$SHRUB-LRG-241
+28  Block:x-RL TH8-LP Block$0$SHRUB-LRG-003
+1  Layer:x-RL TH8-LP Block$0$-u-site-no_plot
+5  Block:x-Villa4-LP Block
+5  Layer:x-Villa4-LP Block$0$LP-SHAR-BRDR-CONT
+5  Layer:x-Villa4-LP Block$0$L-002
+15  Block:x-Villa4-LP Block$0$SHRUB-TROP-021
+35  Layer:x-Villa4-LP Block$0$LK-SHRB-TRNK
+35  Layer:x-Villa4-LP Block$0$LK-SHRB-035M
+10  Block:x-Villa4-LP Block$0$TREE-EVGR-001
+10  Layer:x-Villa4-LP Block$0$LK-TREE-013M
+20  Layer:x-Villa4-LP Block$0$LK-TREE-050M
+20  Layer:x-Villa4-LP Block$0$LK-TREE-TRNK
+10  Block:x-Villa4-LP Block$0$TREE-SIMP-007
+10  Layer:x-Villa4-LP Block$0$LK-TREE-025M
+5  Layer:x-Villa4-LP Block$0$LP-TREE
+20  Block:x-Villa4-LP Block$0$SHRUB-LRG-121
+20  Layer:x-Villa4-LP Block$0$LK-SHRB-013M
+5  Layer:x-Villa4-LP Block$0$-u-site-no_plot
+1  Layer:LP-SHAR-BRDR-CONT
+1033  Block:SHRUB-LRG-020
+1095  Layer:LK-SHRB-035M
+1095  Layer:LK-SHRB-TRNK
+14  Block:TREE-PALM-011
+15  Block:TREE-PALM-041
+25  Block:TREE-DCID-003
+1  Layer:L-002
+1  Layer:-u-site-Light setback line
+15  Block:TREE-SIMP-025
+12  Block:TREE-SIMP-222
+43  Block:TREE-SIMP-005
+2  Block:A$C37c72d84
+2  Layer:UT-TRANS-BLOCK 11
+89  Block:TREE-SIMP-050
+12  Block:TREE-EVGR-001
+9  Block:TREE-DCID-450
+42  Block:TREE-SIMP-125
+28  Block:TREE-DCID-208
+35  Block:SHRUB-LRG-421
+27  Block:SHRUB-TROP-021
+8  Block:x-Villa5-LP Block
+8  Layer:x-Villa5-LP Block$0$LP-SHAR-BRDR-CONT
+8  Layer:x-Villa5-LP Block$0$L-002
+8  Block:x-Villa5-LP Block$0$SHRUB-TROP-045
+72  Layer:x-Villa5-LP Block$0$LK-SHRB-TRNK
+56  Layer:x-Villa5-LP Block$0$LK-SHRB-013M
+8  Layer:x-Villa5-LP Block$0$LK-SHRB-025M
+72  Layer:x-Villa5-LP Block$0$LK-SHRB-035M
+24  Block:x-Villa5-LP Block$0$TREE-EVGR-001
+24  Layer:x-Villa5-LP Block$0$LK-TREE-013M
+40  Layer:x-Villa5-LP Block$0$LK-TREE-050M
+40  Layer:x-Villa5-LP Block$0$LK-TREE-TRNK
+16  Block:x-Villa5-LP Block$0$TREE-SIMP-007
+16  Layer:x-Villa5-LP Block$0$LK-TREE-025M
+48  Block:x-Villa5-LP Block$0$SHRUB-LRG-121
+8  Layer:x-Villa5-LP Block$0$LP-TREE
+16  Block:x-Villa5-LP Block$0$SHRUB-LRG-421
+8  Layer:x-Villa5-LP Block$0$-u-site-no_plot
+6  Block:x-Villa6-LP Block
+6  Layer:x-Villa6-LP Block$0$LP-SHAR-BRDR-CONT
+6  Layer:x-Villa6-LP Block$0$L-002
+18  Block:x-Villa6-LP Block$0$TREE-EVGR-001
+18  Layer:x-Villa6-LP Block$0$LK-TREE-013M
+36  Layer:x-Villa6-LP Block$0$LK-TREE-050M
+36  Layer:x-Villa6-LP Block$0$LK-TREE-TRNK
+18  Block:x-Villa6-LP Block$0$TREE-SIMP-007
+18  Layer:x-Villa6-LP Block$0$LK-TREE-025M
+18  Block:x-Villa6-LP Block$0$SHRUB-LRG-121
+24  Layer:x-Villa6-LP Block$0$LK-SHRB-TRNK
+24  Layer:x-Villa6-LP Block$0$LK-SHRB-035M
+24  Layer:x-Villa6-LP Block$0$LK-SHRB-013M
+6  Block:x-Villa6-LP Block$0$SHRUB-TROP-045
+6  Layer:x-Villa6-LP Block$0$LK-SHRB-025M
+6  Layer:x-Villa6-LP Block$0$LP-TREE
+6  Layer:x-Villa6-LP Block$0$LP-PATT-SHAR
+1  Block:LAFX-PLANTSCHEDULE1
+1  Block:*T205
+4  Layer:L-SCHD-TEXT-035M
+18  Block:TREE-SIMP-021
+1  Block:LAFX-PLANTSCHEDULE2
+1  Block:*T204
+1  Layer:'DSB_SIDEWALK
+2  Layer:-OSP_OFF SITE TEXT
+1  Layer:SP-BUILDING-FOOTPRINT
+1  Layer:-u-site-root barrier
+109  Block:A$C2b7dc3a7
+109  Layer:-u-site-utility clear zone
+1  Layer:PDF2_SP-CONCRETE
+1  Layer:PDF2_SP-PAVERS
+1  Layer:PDF2_SP-GRASS
+1  Layer:PDF2_SP-Pavement
+1  Layer:PDF2_SP-Lot Lines
+1  Layer:PDF2_SP-WATER METER-PARTS
+1  Layer:PDF2_SP-PROPERTY LINE
+2  Layer:PDF2_SP-ANNO
+1  Layer:PDF2_SP-ANNO-DIMS
+1  Layer:-u-site-propline
+1  Block:LAFX-PLINE
+1  Layer:X-SYMB-025M
+
+=== First 80 objects: name | class | layer | pos ===
+Block:Site Plan | LinkComposite | -u-site-xref | [0,0,0]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.1047e+07,8.48781e+06,0.798822]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10471e+07,8.48794e+06,0]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10472e+07,8.48788e+06,0]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10471e+07,8.48781e+06,0]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10471e+07,8.48787e+06,0]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10449e+07,8.4849e+06,4.49311e-05]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10449e+07,8.4849e+06,4.49311e-05]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.1045e+07,8.48482e+06,3.44017e-05]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10449e+07,8.48482e+06,3.44017e-05]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10518e+07,8.48715e+06,-0.00111028]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10518e+07,8.48709e+06,-0.00111028]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10517e+07,8.48702e+06,-0.00111029]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10517e+07,8.48708e+06,-0.00111029]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10444e+07,8.4889e+06,-2.84096e-07]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10444e+07,8.48884e+06,-2.84096e-07]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10443e+07,8.48883e+06,-2.9013e-07]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10443e+07,8.48889e+06,-2.9013e-07]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10484e+07,8.48994e+06,0]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10485e+07,8.48995e+06,0]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10485e+07,8.48988e+06,0]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10485e+07,8.48988e+06,0]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.1043e+07,8.48991e+06,0]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10431e+07,8.48991e+06,0]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10431e+07,8.48985e+06,0]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10431e+07,8.48984e+06,0]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10517e+07,8.48702e+06,0]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10517e+07,8.48708e+06,0]
+Layer:Site Plan$0$SP-PAVERS-BANDS | SplineShape | Site Plan$0$SP-PAVERS-BANDS | [1.10471e+07,8.4874e+06,0.00048282]
+Block:Site Plan$0$_Details_TH7_wall | LinkComposite | Site Plan$0$-u-site-wall | [1.10414e+07,8.48713e+06,-2.38122e-07]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10414e+07,8.48621e+06,0]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10413e+07,8.4862e+06,-2.38188e-07]
+Block:Site Plan$0$_Details_TH6_wall | LinkComposite | Site Plan$0$-u-site-wall | [1.10446e+07,8.491e+06,5.57805e-06]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10454e+07,8.49105e+06,3.36645e-06]
+Block:Site Plan$0$_Details_Kneewall&GATE | LinkComposite | Site Plan$0$-u-site-wall | [1.10462e+07,8.49114e+06,1.3658e-06]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10461e+07,8.49114e+06,2.06518e-06]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10461e+07,8.49112e+06,3.46394e-06]
+Block:Site Plan$0$_Details_Kneewall&GATE | LinkComposite | Site Plan$0$-u-site-wall | [1.10459e+07,8.49114e+06,1.3658e-06]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10459e+07,8.49113e+06,2.06518e-06]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10459e+07,8.49112e+06,3.46394e-06]
+Block:Site Plan$0$_Details_Kneewall&GATE | LinkComposite | Site Plan$0$-u-site-wall | [1.10456e+07,8.49114e+06,1.3658e-06]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10456e+07,8.49113e+06,2.06518e-06]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10456e+07,8.49112e+06,3.46394e-06]
+Block:Site Plan$0$_Details_Kneewall&GATE | LinkComposite | Site Plan$0$-u-site-wall | [1.10452e+07,8.49114e+06,1.3658e-06]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10452e+07,8.49113e+06,1.3658e-06]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10452e+07,8.49111e+06,1.3658e-06]
+Block:Site Plan$0$_Details_Kneewall&GATE | LinkComposite | Site Plan$0$-u-site-wall | [1.10449e+07,8.49114e+06,1.3658e-06]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10449e+07,8.49113e+06,1.3658e-06]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10449e+07,8.49111e+06,1.3658e-06]
+Block:Site Plan$0$_Details_Kneewall&GATE | LinkComposite | Site Plan$0$-u-site-wall | [1.10446e+07,8.49113e+06,1.3658e-06]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10447e+07,8.49113e+06,1.3658e-06]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10447e+07,8.49111e+06,1.3658e-06]
+Block:Site Plan$0$_Details_TH5_wall | LinkComposite | Site Plan$0$-u-site-wall | [1.10414e+07,8.48887e+06,0]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10414e+07,8.4882e+06,0]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10413e+07,8.4882e+06,0]
+Block:Site Plan$0$_Details_TH5_wall | LinkComposite | Site Plan$0$-u-site-wall | [1.10444e+07,8.491e+06,2.39661e-06]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10437e+07,8.49104e+06,2.39661e-06]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10437e+07,8.4911e+06,2.39661e-06]
+Block:Site Plan$0$_Details_TH5_wall | LinkComposite | Site Plan$0$-u-site-wall | [1.10491e+07,8.49103e+06,9.36944e-07]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10485e+07,8.49108e+06,9.36944e-07]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10485e+07,8.49114e+06,9.36944e-07]
+Block:Site Plan$0$_Details_TH7_wall | LinkComposite | Site Plan$0$-u-site-wall | [1.10415e+07,8.49097e+06,-2.38122e-07]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10415e+07,8.49004e+06,0]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10414e+07,8.49004e+06,-2.38188e-07]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10476e+07,8.48759e+06,-0.0883239]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10477e+07,8.48759e+06,-0.089756]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10477e+07,8.48744e+06,-0.0913064]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10477e+07,8.48744e+06,-0.089874]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10426e+07,8.4855e+06,-0.00111025]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10426e+07,8.48544e+06,-0.00111026]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10425e+07,8.48537e+06,-0.00111026]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10425e+07,8.48543e+06,-0.00111026]
+Block:Site Plan$0$K-05012  DP-LP 104 2011-03-11$0$ARROW | LinkComposite | Site Plan$0$-u-site-parking_strip | [1.10425e+07,8.48537e+06,-1.88029e-07]
+Layer:Site Plan$0$-u-site-parking_strip | SplineShape | Site Plan$0$-u-site-parking_strip | [1.10425e+07,8.48543e+06,-1.88029e-07]
+Block:Site Plan$0$_Details_TH8_wall | LinkComposite | Site Plan$0$-u-site-wall | [1.10528e+07,8.48832e+06,-0.00121265]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10529e+07,8.48938e+06,-0.00119215]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.10529e+07,8.48938e+06,-0.00121272]
+Block:Site Plan$0$A$C8793d83c | LinkComposite | Site Plan$0$-u-site-wall | [1.10529e+07,8.48702e+06,-3.35475e-05]
+Layer:Site Plan$0$-u-site-wall | SplineShape | Site Plan$0$-u-site-wall | [1.10529e+07,8.48755e+06,0.000218223]
+Layer:Site Plan$0$-u-site-fence | SplineShape | Site Plan$0$-u-site-fence | [1.1053e+07,8.48755e+06,0.000218223]

@@ -1,0 +1,13 @@
+=== place_dummies.ms start ===
+scene file: D:\Utilities\Place_Dummy\placedummy.max
+dwg file  : D:\Utilities\Place_Dummy\LandscapeArea.dwg
+scene loaded; existing objects: 1
+import returned: true; total objects now: 9729
+imported objects: 9728
+dummies created: 2554
+distinct block types: 23
+deleted imported source nodes: 9728
+translating by -[1.10474e+07,8.48803e+06,-4.54932]
+saved: D:\Utilities\Place_Dummy\placedummy.max
+csv report: D:\Utilities\Place_Dummy\_work\dummy_report.csv
+=== done ===

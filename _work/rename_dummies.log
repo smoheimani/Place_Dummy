@@ -1,0 +1,35 @@
+=== rename_dummies.ms start ===
+scene : D:\Utilities\Place_Dummy\placedummy.max
+csv   : D:\Utilities\Place_Dummy\_work\block_to_species_MAPPING.csv
+backup -> D:\Utilities\Place_Dummy\placedummy_BACKUP_pre_rename.max
+loaded; objects=2555
+mapping entries: 23
+dummies found: 2554
+renamed: 2554
+skipped: 0
+
+=== per-species renamed counts ===
+CE  32
+BU  58
+CES  81
+CHR  106
+ED  44
+LJ  44
+PSY  483
+HAM  220
+CG  27
+CRI  49
+QV  64
+CR  86
+POM  1033
+RE  14
+PE  15
+CO  15
+CS  43
+SP  89
+DR  9
+LS  28
+COR  14
+report csv -> D:\Utilities\Place_Dummy\_work\rename_report.csv
+saved : D:\Utilities\Place_Dummy\placedummy.max
+=== done ===
