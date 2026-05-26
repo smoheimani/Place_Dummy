@@ -1,0 +1,5 @@
+=== PlaceDummyTool: Place Dummies start ===
+import returned: true; objects: 9728
+dummies created: 2520
+offset: [1.10502e+07,8.48788e+06,-4.54932]
+CSV exists, leaving it alone: D:\Utilities\Place_Dummy\_work\block_to_species_MAPPING.csv
