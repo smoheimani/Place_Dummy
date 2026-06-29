@@ -24,10 +24,11 @@
     try ( destroyDialog ::PlaceDummyTool ) catch ()
     global PlaceDummyTool
 
-    rollout PlaceDummyTool "Place Dummy Toolkit" width:380 height:340
+    rollout PlaceDummyTool "Place Dummy Toolkit" width:380 height:440
     (
         local cadPath = undefined
         local pdfPath = undefined
+        local surfaceNode = undefined
         local lgBaseY = undefined
         local lgX = undefined
         local lgRowSpacing = undefined
@@ -41,11 +42,18 @@
         button btnPlace "3. Place Dummies"         width:370 height:40 align:#center
         label  lblPlaceHint "Builds legend column with symbol + U1, U2, ..." width:370 align:#center
 
-        label hintSel "Select dummies of a group:" pos:[20,240] width:340
-        edittext edtLetter "Label (U1, U2, ...):"  pos:[20,260] fieldWidth:150 labelOnTop:false
-        button   btnSelect "Select Group"          pos:[240,258] width:130 height:25
+        ----- Project to surface -----
+        groupBox gbSurface "4. (optional) Project dummies onto a surface" pos:[5,235] width:370 height:90
+        label lblSurfaceInfo "Surface: (none)" pos:[20,255] width:340 align:#left
+        button btnPickSurface "Pick Surface in viewport" pos:[20,275] width:170 height:25
+        button btnProject "Project Dummies"              pos:[200,275] width:170 height:25
+        label lblProjHint "Casts a ray down from each dummy's XY onto the surface." pos:[20,303] width:340 align:#left
 
-        label lblStatus "Ready."  pos:[15,300] width:370 align:#center
+        label hintSel "Select dummies of a group:" pos:[20,340] width:340
+        edittext edtLetter "Label (U1, U2, ...):"  pos:[20,360] fieldWidth:150 labelOnTop:false
+        button   btnSelect "Select Group"          pos:[240,358] width:130 height:25
+
+        label lblStatus "Ready."  pos:[15,400] width:370 align:#center
 
         ----- helpers -----
         fn extractBlockName n = (
@@ -467,6 +475,80 @@
             )
         )
         on btnPlace pressed do ( runPlacement() )
+
+        on btnPickSurface pressed do (
+            local s = pickObject prompt:"Click the surface (terrain/plane) you want to project dummies onto..."
+            if s == undefined or not (isValidNode s) then (
+                lblStatus.text = "No surface picked."
+            ) else (
+                surfaceNode = s
+                lblSurfaceInfo.text = "Surface: " + s.name
+                lblStatus.text = "Surface picked: " + s.name
+            )
+        )
+
+        on btnProject pressed do (
+            if surfaceNode == undefined or not (isValidNode surfaceNode) do (
+                messageBox "Click 'Pick Surface' first and pick the terrain/plane in the viewport."
+                return undefined
+            )
+
+            local dummies = #()
+            for o in objects do (
+                if (classOf o) == Dummy do append dummies o
+            )
+            if dummies.count == 0 do (
+                messageBox "No dummies found. Run 'Place Dummies' first."
+                return undefined
+            )
+
+            -- Cast from well above the surface bbox; fall back to scene bbox if surface.max fails
+            local castFromZ = 100000.0
+            try (
+                castFromZ = surfaceNode.max.z + 10000.0
+            ) catch ()
+
+            local projected = 0
+            local missed = 0
+            for d in dummies do (
+                local origin = [d.pos.x, d.pos.y, castFromZ]
+                local downRay = Ray origin [0, 0, -1]
+                local hit = undefined
+                try ( hit = intersectRay surfaceNode downRay ) catch ()
+
+                -- Half-height of the dummy box (boxsize is the full extent on each axis)
+                local halfH = 12.0
+                try ( halfH = (d.boxsize.z) * 0.5 ) catch ()
+
+                if hit != undefined then (
+                    -- Position so the BOTTOM of the box sits on the surface (center is half-height above)
+                    d.pos = [d.pos.x, d.pos.y, hit.pos.z + halfH]
+                    projected += 1
+                ) else (
+                    missed += 1
+                )
+
+                -- Move the pivot to the bottom of the dummy box. node.pivot sets pivot in
+                -- world space while leaving the geometry in place, so the box keeps resting
+                -- on the surface and only the pivot indicator shifts.
+                try ( d.pivot = [d.pos.x, d.pos.y, d.pos.z - halfH] ) catch ()
+            )
+
+            if cadPath != undefined do (
+                local pp = projectPaths cadPath
+                if doesFileExist pp[2] do saveMaxFile pp[2] quiet:true
+            )
+
+            lblStatus.text = "Projected " + (projected as string) + " / " + (dummies.count as string) + " dummies onto " + surfaceNode.name
+            if missed > 0 then (
+                messageBox ("Projected " + (projected as string) + " dummies onto " + surfaceNode.name +
+                            ".\n" + (missed as string) + " dummies were outside the surface's XY extent " +
+                            "(left at original position).")
+            ) else (
+                messageBox ("Projected all " + (projected as string) + " dummies onto " + surfaceNode.name + ".")
+            )
+        )
+
         on btnSelect pressed do (
             local raw = edtLetter.text
             if raw == "" do (
